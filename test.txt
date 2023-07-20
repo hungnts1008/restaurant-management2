@@ -1,0 +1,11 @@
+REG Johnuigfifbahjasbdfhjbasdhjf
+REG iuasgfuigweibjaskdfbjksadf
+REG iuiwehruihqwUIAGSIDiernbsandfb
+REG uiewhqruihqiuwerhnbdasnbfnmasd
+REG ukkajhsdfjkasbndbmnFJKHJKsdbfsabdf
+REG kjasdbfjksbDFFDFFfdjksabfdjkasdf
+REG skjafdbkjasfnmFFFFsaddnfdf
+CLE 20
+PrintHT
+PrintAVL
+PrintMH
